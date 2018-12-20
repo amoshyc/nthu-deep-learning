@@ -2,6 +2,7 @@ libs/
 logs/
 data/
 .vscode
+PyGame-Learning-Environment/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
